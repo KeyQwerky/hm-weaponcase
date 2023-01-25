@@ -19,10 +19,8 @@ QBCore.Functions.CreateUseableItem("pdweaponcase", function(source, item)
         Ply.Functions.AddItem(item.name, item.amount, item.slot)
     end
     Ply.Functions.RemoveItem("pdweaponcase",1)
-    TriggerClientEvent('WeaponCase:Client:UseGiftBox', src, item)
     TriggerClientEvent('inventory:client:ItemBox', src, QBCore.Shared.Items["pdweaponcase"], "remove")
 end)
-
 
 RegisterNetEvent('WeaponCase:server:recieveItem', function(item, itemAmount)
     local src = source
