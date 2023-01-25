@@ -5,4 +5,6 @@ Add pdweaponcase.png in your inventory images folder
 Make sure to add this line in your qb-core > shared > items.lua
 ['pdweaponcase'] 			 	 = {['name'] = 'pdweaponcase', 					['label'] = 'Weapon Case', 				['weight'] = 7000, 		['type'] = 'item', 		['image'] = 'pdweaponcase.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A weapon case full of supplies for LSPD'},
 
-![image](https://user-images.githubusercontent.com/120094999/214561684-c64d82f4-0865-48ca-a832-de5f6d89aa3e.png)
+https://cdn.discordapp.com/attachments/891808591055556651/1067780975360233582/FiveM_b2699_GTAProcess_t7u8O9jzsM.png
+
+https://cdn.discordapp.com/attachments/891808591055556651/1067780975033073814/FiveM_b2699_GTAProcess_MsA1cO9oXz.png
