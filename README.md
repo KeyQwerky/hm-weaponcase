@@ -6,3 +6,4 @@ Make sure to add this line in your qb-core > shared > items.lua
 ['pdweaponcase'] 			 	 = {['name'] = 'pdweaponcase', 					['label'] = 'Weapon Case', 				['weight'] = 7000, 		['type'] = 'item', 		['image'] = 'pdweaponcase.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A weapon case full of supplies for LSPD'},
 
 [image](https://i.imgur.com/cuGOIVI.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/https://i.imgur.com/cuGOIVI.png?raw=true)
