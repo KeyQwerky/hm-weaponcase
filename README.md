@@ -13,5 +13,7 @@ Make sure to add this line in your qb-core > shared > items.lua
 
 
 Change the Label "BulkBox" to whatever name you desire.
+
+
 ![image](https://user-images.githubusercontent.com/120094999/214562641-e3732fde-d039-4544-817f-d339ceb42f7f.png)
 
