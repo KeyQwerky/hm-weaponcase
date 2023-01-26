@@ -1,6 +1,6 @@
 1. Drag and drop this script in your [qb] resource folder
 2. Add pdweaponcase.png in your inventory qb-inventory > html > images > drag and drop
-Go to qb-core > shared > items.lua then add in the line below anywhere in your items list!
+3. Go to qb-core > shared > items.lua then add in the line below anywhere in your items list!
 
 ['pdweaponcase'] 			 	 = {['name'] = 'pdweaponcase', 					['label'] = 'Weapon Case', 				['weight'] = 7000, 		['type'] = 'item', 		['image'] = 'pdweaponcase.png', 		['unique'] = true, 		['useable'] = true, 	['shouldClose'] = true,	   ['combinable'] = nil,   ['description'] = 'A weapon case full of supplies for LSPD'},
 
