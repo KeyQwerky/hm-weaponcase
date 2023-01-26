@@ -1,3 +1,5 @@
+A simple weapon box script made to give new officers or returning ones a quick loadout option!
+
 1. Drag and drop this script in your [qb] resource folder
 2. Add pdweaponcase.png in your inventory qb-inventory > html > images > drag and drop
 3. Go to qb-core > shared > items.lua then add in the line below anywhere in your items list!
