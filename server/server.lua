@@ -1,7 +1,7 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
 QBCore.Functions.CreateUseableItem("pdweaponcase", function(source, item)
-    for _, item in pairs(items) do
+    for _, item in pairs(Config.items) do
         QBCore.Functions.GetPlayer(source).Functions.AddItem(item.name, item.amount)
     end
     QBCore.Functions.GetPlayer(source).Functions.RemoveItem("pdweaponcase", 1)

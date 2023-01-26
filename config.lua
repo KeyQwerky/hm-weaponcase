@@ -1,7 +1,7 @@
 Config = {}
 
 Config.items = {
-    { name = "weapon_heavypistol",  amount = 2 },
+    { name = "weapon_heavypistol",  amount = 1 },
     { name = "weapon_stungun",      amount = 1 },
     { name = "weapon_nightstick",   amount = 1 },
     { name = "weapon_handcuffs",    amount = 1 },
